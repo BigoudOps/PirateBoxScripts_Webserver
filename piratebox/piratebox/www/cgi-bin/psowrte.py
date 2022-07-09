@@ -23,5 +23,12 @@ timestamp = float(values["timestamp"].value)
 
 process_form(rawname, rawdata, color, timestamp)
 
+if color.lower() == "admin":
+  color = "def"
+adminpass = "-mysecretpassword"
+if name.endswith(adminpass):
+  name = name[0:-1*len(adminpass)]
+  color = "admin"
+    
 print "Status:200\r\n\r\n" 
 print """<html><body>ok</body></html>"""
