@@ -124,6 +124,12 @@ footer {
   color: #ff8040;
 }
 
+.admin	{ 
+  color: #000000; 
+  background: #FF80FF; 
+  font-weight: bold 
+}
+
 body {
   background: #e7e9ea;
 }
