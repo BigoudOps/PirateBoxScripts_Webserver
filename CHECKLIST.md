@@ -14,22 +14,22 @@ Make sure you PirateBox stopped flashing (indicating the installation is running
 (Skip sections which are not valid for your architecture).
 
 ### Initial configuration setup
-* [ ] PirateBox' WiFi is available
-* [ ] Connection to PirateBox' WiFi could be established
-* [ ] **RPi only**  SSH connection to PirateBox with the username *alarm* and the password *alarm* could be established
-* [ ] **RPi only**  Message of the day containing information about *First Steps* is displayed correctly
-* [ ] **RPi only** Change the password for the *alarm* user, log out and log back in
-* [ ] **RPi only** Enable USB share
-* [ ] Set some date and enable Fake-timeservice
-* [ ] Enable Kareha Image and Discussion Board
-* [ ] Enable UPnP media server (minidlna)
-* [ ] It is possible to post to the chat
-* [ ] It is possible to upload files
-* [ ] It is possible to post to the board
-* [ ] Reboot
-* [ ] PirateBox' WiFi is available
-* [ ] Connection to PirateBox' WiFi could be established
-* [ ] Date matches the set date from the Fake-timeservice
+* [x] PirateBox' WiFi is available
+* [x] Connection to PirateBox' WiFi could be established
+* [x] **RPi only**  SSH connection to PirateBox with the username *alarm* and the password *alarm* could be established
+* [x] **RPi only**  Message of the day containing information about *First Steps* is displayed correctly
+* [x] **RPi only** Change the password for the *alarm* user, log out and log back in
+* [x] **RPi only** Enable USB share
+* [x] Set some date and enable Fake-timeservice
+* [x] Enable Kareha Image and Discussion Board
+* [x] Enable UPnP media server (minidlna)
+* [x] It is possible to post to the chat
+* [x] It is possible to upload files
+* [x] It is possible to post to the board
+* [x] Reboot
+* [x] PirateBox' WiFi is available
+* [x] Connection to PirateBox' WiFi could be established
+* [x] Date matches the set date from the Fake-timeservice
 
 ### Functional tests
 **UI in General**
